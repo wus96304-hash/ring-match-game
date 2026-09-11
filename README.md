@@ -1,4 +1,4 @@
-# 响铃消消乐（Ring Match）
+# 爱我请响铃（Ring Match）
 
 十二星座主题的竖屏三消小游戏，Phaser 3 构建。
 
